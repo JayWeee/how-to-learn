@@ -3,6 +3,7 @@
   height: 608px;
   display: flex;
   position: absolute;
+  object-fit: cover;
   justify-content: end;
   z-index: 1;
   bottom: 0;
